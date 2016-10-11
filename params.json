@@ -1,0 +1,6 @@
+{
+  "name": "bitcoin.org-spider",
+  "tagline": "Utility for creating a Zeal docset for bitcoin.org developer docs",
+  "body": "To use the resulting documetation, simply enter this feed's URL in Zeal's \"Add Feed\" box or similar option in Dash: https://jkozera.github.io/bitcoinorgspider/Bitcoin.xml",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
